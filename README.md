@@ -1,2 +1,2 @@
 # 🤖 Racket-Recursive-Algorithms
-My Racket Algorithms which are primarily based on the concept of recursion.
+  Racket Recursive Algorithms for Mathematical Foundations of Computer Science.
